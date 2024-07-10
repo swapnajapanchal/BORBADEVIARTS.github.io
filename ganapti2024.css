@@ -277,6 +277,7 @@ button{
     text-align:center;
     background-color:yellow;
     border-radius:3px;
+    padding: 5px;
 }
 
 .container1 .nav a:active{
