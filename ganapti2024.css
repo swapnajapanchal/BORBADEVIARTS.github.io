@@ -275,6 +275,8 @@ button{
 .container1 .nav a{
     color:red;
     text-align:center;
+    background-color:yellow;
+    border-radius:3px;
 }
 
 .container1 .nav a:active{
