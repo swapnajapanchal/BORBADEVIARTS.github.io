@@ -263,7 +263,7 @@ button{
 
 /*Styling interconnect page navigation menu*/
 
-.container1.nav{
+.container1 .nav{
     max-height: 200px;
     border: 1px solid white;
     display: flex;
@@ -272,7 +272,7 @@ button{
     text-align:center;
 }
 
-.container1.nav a{
+.container1 .nav a{
     color:red;
     text-align:center;
     padding:2px;
