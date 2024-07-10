@@ -269,6 +269,7 @@ button{
     display: flex;
     overflow-x: auto;
     background-color:  white;
+    text-align:center;
 }
 
 .container1.nav a{
@@ -277,10 +278,6 @@ button{
     padding:2px;
 }
 
-.container1.nav a:active{
-    text-decoration:underline;
-    text-decoration-line:orange;
-}
     
 
 
