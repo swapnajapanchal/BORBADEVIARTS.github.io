@@ -264,17 +264,19 @@ button{
 /*Styling interconnect page navigation menu*/
 
 .container1.nav{
-    max-height: 100px;
+    max-height: 200px;
     border: 1px solid white;
     display: flex;
     overflow-x: auto;
-    background-color:  rgb(255, 125, 49);
+    background-color:  white;
 }
 
 .container1.nav a{
     color:red;
     text-align:center;
+    padding:2px;
 }
+
 .container1.nav a:active{
     text-decoration:underline;
     text-decoration-line:orange;
